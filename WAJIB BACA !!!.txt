@@ -1,15 +1,4 @@
-DONASI:
-Bantu saya mengembangkan dan membuat lebih banyak source code
-untuk Anda dengan cara donasi. 
-Anda dapat mengirimkan donasi ke:
 
-No. Rekening : 5485-01-007458-53-6
-Bank	     : Bank BRI
-A/n	     : M Fikri Setiadi
-
-PS: Berapapun donasi yang Anda kirimkan akan 
-    sangat membantu saya untuk mengembangkan dan 
-    membuat lebih banyak source code untuk Anda.
 
 INSTALLASI LOCALHOST:
 
